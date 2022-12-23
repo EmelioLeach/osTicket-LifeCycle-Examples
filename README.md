@@ -52,6 +52,6 @@ So now will change the priority to emergency because this is a business impactin
 <img src=https://i.imgur.com/i1jfuYd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-</p>
+If we go back to tickets we will be able to see the updated information on this ticket.
 <br />
+<img src=https://i.imgur.com/JwPLlOT.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
