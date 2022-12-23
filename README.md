@@ -42,7 +42,7 @@ If you switch over to agent panel you should be able to see all the open tickets
 <img src=https://i.imgur.com/0beBi9i.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this final section you will see how to update the information on a ticket, so that we can set the priority level and anything else that needs to be change depending on how important the ticket is.
+In this section you will see how to update the information on a ticket, so that we can set the priority level and anything else that needs to be change depending on how important the ticket is.
 </p>
 So now will change the priority to emergency because this is a business impacting event that could cost them alost of money. Then we will change SLA plan to SEV-A due to its importance, and re-assign the department to Sys Adminstrators.  
 </p>
