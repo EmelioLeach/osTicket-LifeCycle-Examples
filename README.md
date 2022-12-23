@@ -47,7 +47,6 @@ In this section you will see how to update the information on a ticket, so that 
 So now will change the priority to emergency because this is a business impacting event that could cost them alost of money. Then we will change SLA plan to SEV-A due to its importance, and re-assign the department to Sys Adminstrators.  
 </p>
 <br />
-
 <p>
 <img src=https://i.imgur.com/i1jfuYd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -55,3 +54,9 @@ So now will change the priority to emergency because this is a business impactin
 If we go back to tickets we will be able to see the updated information on this ticket.
 <br />
 <img src=https://i.imgur.com/JwPLlOT.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Finally somebody from system engineering found the error and corrected it now the ticket should be resolved.
+</p> 
+<p>
+<img src=https://i.imgur.com/1RCS0Qs.png height="80%" width="80%" alt="Disk Sanitization Steps"/>  
